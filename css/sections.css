@@ -84,7 +84,7 @@ section header {
 
         p {
             margin-top: 8px;
-            font-weight: 800;
+            font: var(--h2)
         }
     }
 }
