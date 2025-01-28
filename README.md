@@ -74,5 +74,5 @@ Sinta-se à vontade para contribuir com o projeto! Veja como:
 ## 📞 Contato  
 
 - Email: devmoisessantos@gmail.com  
-- LinkedIn: [linkedin.com/in/devmoisessantos](https://linkedin.com/in/devmoises-santos)  
+- LinkedIn: [linkedin.com/in/devmoises-santos](https://linkedin.com/in/devmoises-santos)  
 - Portfólio: []()  --- 😊 ---
