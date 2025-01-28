@@ -21,7 +21,20 @@ section header {
     }
 }
 
+aside {
+
+    grid-area: aside;
+}
+
+footer {
+    padding-block: 32px;
+    justify-content: center;
+    align-items: center;
+}
+
 #features {
+
+    grid-area: features;
     
     img {
         height: 100%;
@@ -61,6 +74,8 @@ section header {
 }
 
 #most-read {
+    
+    grid-area: most-read;
 
     & > div {
         grid-template-columns: repeat(4, 292px);
@@ -86,5 +101,34 @@ section header {
             margin-top: 8px;
             font: var(--h2)
         }
+    }
+}
+
+#most-recent {
+
+    grid-area: most-recent;
+
+    img {
+        width: 176px;
+        aspect-ratio: 1/1;
+        object-fit: cover;
+    }
+    
+    h3 {
+        margin-block: 8px 4px;
+    }
+}
+
+#related-links {
+    margin-top: 32px;
+
+    h3 {
+        margin-top: 8px;
+    }
+
+    img {
+        width: 72px;
+        aspect-ratio: 1/1;
+        object-fit: cover;
     }
 }
